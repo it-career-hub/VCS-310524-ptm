@@ -30,3 +30,4 @@ do
 done
 
 echo "Файлы успешно созданы!"
+echo "Done1"
